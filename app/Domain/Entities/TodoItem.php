@@ -15,6 +15,7 @@ class TodoItem extends Entity
     // Define constants for property names
     const DESCRIPTION = 'description';
     const COMPLETED = 'completed';
+    const NOTCOMPLETED = 'notcompleted';
     
     /**
      * @var string 
